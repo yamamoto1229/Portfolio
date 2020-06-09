@@ -26,8 +26,8 @@
 動物保護センターの新着情報掲載
 
 ## 設計書
-
+https://docs.google.com/spreadsheets/d/1wVf6P82iAMjFh9EXNpwQF4pMQwJlf4cbTR5zgjNQnjo/edit?usp=sharing
 ### 機能一覧
-https://docs.google.com/spreadsheets/d/1rReHP-CTfLz35AKNLpBHfauFv7aRbNAFshZCr7fm0qc/edit#gid=0
+https://docs.google.com/spreadsheets/d/1rReHP-CTfLz35AKNLpBHfauFv7aRbNAFshZCr7fm0qc/edit?usp=sharing
 
 
